@@ -1,0 +1,51 @@
+body{
+    background-color:#F2A154;
+    font-family:karla;
+}
+.lord{
+    display: flex;
+    justify-content: center; 
+}
+.div2{
+    display:flex;
+    width: 60%;
+    justify-content:center;
+    flex-direction: column;
+    
+}
+.ysf{ 
+  margin: auto;
+  width:50px;
+  height:50px;
+
+}
+.high{
+    margin: auto;
+    display:grid;
+    border:solid #13366D;
+    background-color:#FFF3D9;
+    width:50%; 
+    height:70%; 
+    padding:30px;
+    border-radius:15px;
+}
+.div1{
+    color:#13366D;
+    font-size:60%;
+    font-family:karla;
+}
+.hope{
+    padding:10px;
+    margin:10px;
+    border-radius:10px;
+}
+.once{
+    padding:10px;
+    margin:10px;
+    background-color: #13366D;
+    border-radius:10px;
+    color: white;
+}
+
+
+
